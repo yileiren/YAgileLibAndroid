@@ -12,6 +12,8 @@ public class YHardware
 {
 	/**
 	 * 获取android设备ID。
+	 * @author 董帅 2013年3月24日 21时55分42秒
+	 * 
 	 * @param resolver 使用的contentprovider实例。
 	 * @return 设备ID。
 	 */
